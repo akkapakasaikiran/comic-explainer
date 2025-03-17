@@ -1,0 +1,46 @@
+{
+    "comic_story": [
+        {
+            "image_description": "A sunny field with green grass and a few flowers. Pikachu is happily bouncing a red Pok\u00e9 Ball in the air. Bulbasaur is sitting nearby, watching with a curious expression.",
+            "dialogues": {
+                "Pikachu": "Whee! Up, up, and away!",
+                "Bulbasaur": "That looks fun, Pikachu!"
+            }
+        },
+        {
+            "image_description": "Pikachu throws the Pok\u00e9 Ball high up in the air. The Pok\u00e9 Ball reaches its peak and then starts falling back down.",
+            "dialogues": {
+                "Pikachu": "See how high it goes?",
+                "Bulbasaur": "Wow! But... why does it always come back down?"
+            }
+        },
+        {
+            "image_description": "Pikachu has stopped bouncing the Pok\u00e9 Ball and is pointing downwards with a thoughtful expression. Bulbasaur is looking in the same direction, still curious.",
+            "dialogues": {
+                "Pikachu": "That's because of something called gravity, Bulbasaur!",
+                "Bulbasaur": "Gra-vi-ty? What's that?"
+            }
+        },
+        {
+            "image_description": "Pikachu is making a sweeping gesture with its paw towards the ground. Bulbasaur is tilting its head, looking at the ground as well.",
+            "dialogues": {
+                "Pikachu": "It's like an invisible force that pulls everything towards the ground. Like the Earth is giving everything a little hug!",
+                "Bulbasaur": "A hug? So that's why I always stay on the ground?"
+            }
+        },
+        {
+            "image_description": "Pikachu nods enthusiastically. In the background, an apple falls from a tree (cartoonishly depicted with a 'thwump' sound effect). Bulbasaur looks surprised at the falling apple.",
+            "dialogues": {
+                "Pikachu": "Exactly! See that apple? Gravity is pulling it down from the tree.",
+                "Bulbasaur": "Oh! So gravity makes things fall!"
+            }
+        },
+        {
+            "image_description": "Pikachu catches the falling Pok\u00e9 Ball. Bulbasaur is smiling, looking like it understands now.",
+            "dialogues": {
+                "Pikachu": "Yep! It keeps us from floating off into space too!",
+                "Bulbasaur": "Wow, gravity is pretty important then!"
+            }
+        }
+    ]
+}
